@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do.
 
-##The Function I created a list of function set the value of the vector
+##The Function I created, lists a function that gives:
 #get the input matrix
 #set the inverse of matrix
 #get the inverse of matrix. It also uses  <<- assignment operator which can be used to assign a value to an object in an environment that is different from the current environment.
@@ -24,9 +24,6 @@ makeCacheMatrix <- function(x = matrix()) {
              getinv = getinv) # return a list that contains these functions, so that we can use
 
 }
-
-
-
 
 
 ## Write a short comment describing this function
